@@ -1,0 +1,13 @@
+{
+ "Name": "BitZeny",
+ "Desc": "BitZeny Mainnet",
+ "Id": "0xf9bea5da",
+ "Port": 9252,
+ "Pver": 70015,
+ "DNSName": "seeder.example.com",
+ "TTL": 600,
+ "InitialIP": "",
+ "Seeder1": "",
+ "Seeder2": "",
+ "Seeder3": ""
+}
